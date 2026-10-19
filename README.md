@@ -143,6 +143,11 @@ Logs: `/data/GoldHEN/plugins/turbo.log` and the GoldHEN kernel log.
 | `no compatible getter code found` | Game build/version not matched by the scan |
 | Wrong game version | Add its title ID section; if the scan still fails, open an issue with the eboot version |
 
+## Contributors
+
+- **juncd2** — project owner, on-console testing
+- **[opencode](https://opencode.ai)** (DeepSeek V4.1 Flash Free) — AI coding agent: reverse engineering, plugin implementation, build and packaging
+
 ## Credits
 
 - Original PC project: [**Turbo Mode And Character Swapper**](https://www.nexusmods.com/devilmaycry5/mods/29) by **Naxshe** (Nexus Mods) — the turbo mode injector this PS4 port is based on
