@@ -149,7 +149,6 @@ Logs: `/data/GoldHEN/plugins/turbo.log` and the GoldHEN kernel log.
 - [GoldHEN Plugin SDK](https://github.com/GoldHEN/GoldHEN_Plugins_SDK) — OSM, jocover, bucanero, SiSTRo, ctn123, nik, OpenOrbis Team
 - [OpenOrbis PS4 Toolchain](https://github.com/OpenOrbis/OpenOrbis-PS4-Toolchain)
 - `crtprx.c` — Specter + SiSTRo
-- Passive pad adoption approach from the DDMK PS4 port
 
 ## Disclaimer
 
