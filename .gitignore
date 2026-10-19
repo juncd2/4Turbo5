@@ -1,0 +1,6 @@
+build/
+*.elf
+*.oelf
+*.prx
+release/
+*.zip
